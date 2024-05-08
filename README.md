@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭 Actualmente trabajo como Ingeniero de Software<br>👯 Busco colaborar con cualquiera<br>🌱 Actualemnte sigo aprendiendo, porque nunca paro de aprender<br>💬 Preguntame lo que quieras<br>⚡ Soy amante de los animales en especial de 🐶 y 😺
+🔭 Actualmente trabajo como Ingeniero de Software<br>👯 Busco colaborar con cualquiera<br>🌱 Actualmente sigo aprendiendo, porque nunca paro de aprender<br>💬 Preguntame lo que quieras<br>⚡ Soy amante de los animales en especial de 🐶 y 😺
 
 
 ## 🌐 Redes Sociales:
