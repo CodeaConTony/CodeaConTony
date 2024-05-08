@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working as a Software Engineer<br>👯 I’m looking to collaborate with anyone<br>🌱 I’m currently learning programming because I never stop learning<br>💬 Ask me anything<br>⚡ I am a dog lover
+# 💫 Acerca de mi:
+🔭 Actualmente trabajo como Ingeniero de Software<br>👯 Busco colaborar con cualquiera<br>🌱 Actualemnte sigo aprendiendo, porque nunca paro de aprender<br>💬 Preguntame lo que quieras<br>⚡ Soy amante de los animales en especial de 🐶 y 😺
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CodeaConTony) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CodeaConTony) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeaConTony&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Puedes apoyarme con una donación
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@tonylex12) 
 
   
